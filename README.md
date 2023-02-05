@@ -8,7 +8,7 @@
 
 
 ### be aware that
-- I, V, X, L, C are often used in English sentence.
+- I, V, X, L, C are often solely used in English sentence.
 - you should set the pattern correctly.
 
 
