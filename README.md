@@ -9,7 +9,7 @@
 
 ### be aware that
 - I, V, X, L, C are often solely used in English sentence.
-- you should set the pattern correctly.
+- you should set the regular expression pattern correctly.
 
 
 
